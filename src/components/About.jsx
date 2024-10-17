@@ -8,9 +8,10 @@ const About = () => {
         About Me
       </Typography>
       <Typography variant="body1" color='primary' paragraph>
-        I am currently pursuing a degree in Electronics at Walchand College of Engineering. I have a strong passion
-        for coding and web development. I have worked on several projects using the MERN stack and am always eager to
-        learn and implement new technologies.
+      Hi, I'm a passionate software developer with a focus on building efficient and scalable web applications. I have completed my degree in Electronics from Walchand College of Engineering, I've honed my skills through various projects and internships.
+I enjoy tackling complex challenges. Beyond my technical abilities, I’m a strong believer in continuous learning and teamwork, as demonstrated by my active participation in national-level competitions and events.
+When I'm not coding, I enjoy lifting weights, playing cricket, football, and exploring new recipes in the kitchen.
+Feel free to explore my portfolio, and don't hesitate to get in touch!
       </Typography>
     </Container>
   );
